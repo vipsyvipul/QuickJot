@@ -3,11 +3,7 @@ Jot down your thoughts within the browser.
 
 ![QuickJot](https://i.imgur.com/mHFGBP0.png)
 
-QuickJot is a lightweight Chrome extension for taking notes. Just click on the extension icon and start jotting down notes. Use it for:
-1. Taking meeting notes
-2. Jotting down your own thoughts
-
-... without having to open a separate application!
+QuickJot is a lightweight Chrome extension for taking meeting notes or just jotting down quick thoughts. Click on the extension icon and start jotting.
 
 All your notes are stored locally in your browser and can be accessed any time from within the same browser.
 
